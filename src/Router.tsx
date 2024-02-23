@@ -18,7 +18,7 @@ export const Router = createBrowserRouter(
                 <Route path="/view" element={<HotelData/>}/>
             </Route>
             <Route path="/login" element={<Login/>}/>
-            <Route path="/createAcccount" element={<Signup/>}/>
+            <Route path="/createaccount" element={<Signup/>}/>
         </>
     )
 )
